@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "credible"
-version = "0.1.0"
+version = "0.1.1"
 description = ""
 authors = ["Ashish Arora <ashisharora24@outlook.com>"]
 readme = "README.md"
